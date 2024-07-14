@@ -1,3 +1,6 @@
+
+![Alt text](relative/path/to/your/)
+
 <b>Project Installation</b>
         Clone the repository
 
