@@ -1,5 +1,6 @@
 
-![Alt text](relative/https://github.com/Vijay-Bhattarai/image-collection/blob/main/image-c1.png)
+![example](https://github.com/Vijay-Bhattarai/image-collection/blob/main/image-c1.png)
+
 
 <b>Project Installation</b>
         Clone the repository
